@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Induma Magammana
-😄 I’m currently learning React, MongoDB, Node.js, Next.js.
-📫 How to reach me: indumamagammana@gmail.com 
-⚡ Visit for more: https://www.linkedin.com/in/induma-magammana
+\n😄 I’m currently learning React, MongoDB, Node.js, Next.js.
+\n📫 How to reach me: indumamagammana@gmail.com 
+\n⚡ Visit for more: https://www.linkedin.com/in/induma-magammana
 <!--
 **Induma-Magammana/Induma-Magammana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
