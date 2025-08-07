@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Induma Magammana
+## Hi there! 👋 I'm Induma Magammana
 
 😄 I’m currently learning React, MongoDB, Node.js, Next.js.
 
