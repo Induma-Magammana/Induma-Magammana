@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Induma Magammana
 
-😄 I’m currently learning React, MongoDB, Node.js, Next.js.
+😄 A third-year undergraduate in Information Technology and Management at the University of Moratuwa, with a growing passion for Quality Assurance and Software Testing. I’m deeply interested in how well-tested, reliable systems contribute to better user experiences and product success.
 
 📫 How to reach me: indumamagammana@gmail.com 
 
